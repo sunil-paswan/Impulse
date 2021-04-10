@@ -1,7 +1,114 @@
 import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
-   
+
+    {
+      name: "CALL ME IN YOUR SUMMER",
+      cover:
+        "http://www.simpleimageresizer.com/_uploads/photos/38c4e970/call_me_in_summer_600x600.jpg",
+      artist: "SHE IS SUMMER",
+      audio: " https://www.mboxdrive.com/SHE IS SUMMERCALL ME IN YOUR SUMMER.mp3",
+      color: ["#845460", "#EAD3CB"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Back in Black",
+      cover:
+        "https://i.pinimg.com/originals/a0/7e/29/a07e29dac57c364e7df4766c6200208b.jpg",
+      artist: "AC/DC",
+      audio: " https://www.mboxdrive.com/ACDC - Back In Black (Official Video).mp3",
+      color: ["#000000", "#bbbbbb"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Labyrinth",
+      cover:
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5b00a0c-0a7a-4922-bdff-d5d8bae1cee7/dd7rlxh-3862eade-c260-4198-b433-1c7cf91a25ba.jpg/v1/fill/w_600,h_600,q_75,strp/mondo_grosso_labyrinth_by_rodrisuarez_dd7rlxh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03MjAiLCJwYXRoIjoiXC9mXC9mNWIwMGEwYy0wYTdhLTQ5MjItYmRmZi1kNWQ4YmFlMWNlZTdcL2RkN3JseGgtMzg2MmVhZGUtYzI2MC00MTk4LWI0MzMtMWM3Y2Y5MWEyNWJhLmpwZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uM6zrzLTumb4yxtLN83giL-gO7wv1UxnAwI8_QDdvSU",
+      artist: "Hikari Mitsushima",
+      audio: "https://www.mboxdrive.com/MONDO GROSSO ラビリンス.mp3",
+      color: ["#0E72B5", "#D8A283"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    {
+      name: "Shelter",
+      cover:
+        "https://m.media-amazon.com/images/I/81NhMOomd4L._SS500_.jpg",
+      artist: "Temples",
+      audio: "https://www.mboxdrive.com/Temples - Shelter Song.mp3",
+      color: ["#F2AEC7", "#AD5B70"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    {
+      name: "Traces of you",
+      cover:
+        "https://i1.wp.com/1883magazine.com/wp-content/uploads/2020/02/LoveLettersCover-lowres.jpg?fit=2100%2C2100",
+      artist: "Anoushka Shankar & Norah Jones",
+      audio: "https://www.mboxdrive.com/Anoushka Shankar & Norah Jones Traces Of You.mp3",
+      color: ["#4E4C6E", "#D3E8DF"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    
+    {
+      name: "Hidden Structure",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/09/88e7eb711f8c71d87fc102e97cf91e36f692348d-1024x1024.jpg",
+      artist: "Leavv, Flitz&Suppe",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=9912",
+      color: ["#4E4C6E", "#D3E8DF"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Today Feels Like Everyday",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/01/6b1bb8736ee3e972747bc11f312e31cf7f5823e4-1024x1024.jpg",
+      artist: "Mama Aiuto",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=12126",
+      color: ["#4E4C6E", "#D3E8DF"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Lonely Waves",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+      artist: "C Y G N",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=14986",
+      color: ["#4E4C6E", "#D3E8DF"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Lonely Waves",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+      artist: "C Y G N",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=14980",
+      color: ["#4E4C6E", "#D3E8DF"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    {
+      name: "Roses n Flames",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+      artist: "C Y G N",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=14984",
+      color: ["#4E4C6E", "#D3E8DF"],
+      id: uuidv4(),
+      active: false,
+    },
     {
       name: "Loving Someone You Lost",
       cover:
