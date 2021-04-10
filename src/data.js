@@ -5,7 +5,7 @@ function chillHop() {
     {
       name: "CALL ME IN YOUR SUMMER",
       cover:
-        "http://www.simpleimageresizer.com/_uploads/photos/38c4e970/call_me_in_summer_600x600.jpg",
+        "https://i1.sndcdn.com/artworks-cwikzlBWnlkRqBfM-RIRY0Q-t500x500.jpg",
       artist: "SHE IS SUMMER",
       audio: " https://www.mboxdrive.com/SHE IS SUMMERCALL ME IN YOUR SUMMER.mp3",
       color: ["#845460", "#EAD3CB"],
